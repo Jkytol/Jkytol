@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm JK 👋</h1>
 <h3 align="center">A passionate full stack engineer from Fin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jkytol" alt="Jkytol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jkytol" alt="Jkytol" /> </p> <a href="https://twitter.com/drunkduckk"><img src="https://img.shields.io/twitter/follow/drunkduckk?label=Twitter&style=social" alt="Twitter"></a>
 
 - 👨‍💻  All of my projects are available at: []()
 
